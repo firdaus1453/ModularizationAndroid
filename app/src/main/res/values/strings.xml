@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAppBundle</string>
+    <string name="title_login">login</string>
+    <string name="title_profil">profil</string>
+</resources>
